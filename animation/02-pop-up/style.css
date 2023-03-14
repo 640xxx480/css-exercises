@@ -44,6 +44,18 @@ button {
   margin-bottom: 24px
 }
 
+/*Animation*/
+
+.popup-modal.show {
+  animation-name: from-high;
+  animation-duration: 1s;
+}
+
+@keyframes from-high {
+  from {top: 40%;}
+  to {top: 50%;};
+}
+
 .backdrop {
   pointer-events: none;
   position: fixed;
