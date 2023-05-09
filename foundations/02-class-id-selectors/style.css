@@ -1,0 +1,18 @@
+.odds {
+    background-color:rgb(241, 77, 1);
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+#division01 {
+    font-size: 36;
+    color:rgb(69, 65, 173)
+}
+
+#division02 {
+    font-size: 24;
+    font-weight:bold;
+}
+
+#paragrapgh {
+    font-size: 24;
+}
